@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3MS866
   title: རྟགས་ཀྱི་འཇུག་པའི་དགོངས་འགྲེལ་རབ་གསལ་སྣང་བ།
-  volume: ''
+  volume:
+    3da4613ce7c846438cbd39112e2acac5:
+      image_group_id: I3MS868
+      title: Volume 1 of rtags kyi 'jug pa'i dgongs 'grel rab gsal snang ba/
+      volume_number: 1
+      total_pages: 38
   author: ''
+ebook_metadata:
+  title: རྟགས་ཀྱི་འཇུག་པའི་དགོངས་འགྲེལ་རབ་གསལ་སྣང་བ།
+  author: ''
+  sku: P007994
+  cover: cover.jpg
+  layers:
+  - pagination
